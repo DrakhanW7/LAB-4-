@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -36,7 +35,6 @@
   <footer>
     <p>&copy; 2026 Drakhan Webb - CSIT 121</p>
   </footer>
-</body><!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -96,7 +94,6 @@
   <footer>
     <p>&copy; 2026 Drakhan Webb - CSIT 121</p>
   </footer>
-<<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -157,9 +154,7 @@
     <p>&copy; 2026 Drakhan Webb - CSIT 121</p>
   </footer>
 </body>
-</html>body>
-</html></html> LAB-4-
-<!DOCTYPE html>
+</html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
